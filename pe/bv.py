@@ -1,1 +1,1 @@
-from hwtypes import BitVector
+from bit_vector import BitVector
