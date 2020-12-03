@@ -1,1 +1,1 @@
-bit_vector
+bit_vector==0.42a0
